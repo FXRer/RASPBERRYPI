@@ -1,0 +1,9 @@
+[submodule "rpi-control-center"]
+	path = rpi-control-center
+	url = git@github.com:afkham/rpi-control-center.git
+[submodule "speed-camera"]
+	path = speed-camera
+	url = git@github.com:pageauc/speed-camera.git
+[submodule "flickrup"]
+	path = flickrup
+	url = git@github.com:drcursor/flickrup.git
