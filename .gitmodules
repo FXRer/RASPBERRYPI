@@ -7,3 +7,12 @@
 [submodule "flickrup"]
 	path = flickrup
 	url = git@github.com:drcursor/flickrup.git
+[submodule "rpi-can-logger"]
+	path = rpi-can-logger
+	url = git@github.com:JonnoFTW/rpi-can-logger.git
+[submodule "raspberrypi-locationtracker"]
+	path = raspberrypi-locationtracker
+	url = git@github.com:vikash-gupta/raspberrypi-locationtracker.git
+[submodule "rpi-open-firmware"]
+	path = rpi-open-firmware
+	url = git@github.com:christinaa/rpi-open-firmware.git
