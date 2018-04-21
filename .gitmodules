@@ -16,3 +16,9 @@
 [submodule "rpi-open-firmware"]
 	path = rpi-open-firmware
 	url = git@github.com:christinaa/rpi-open-firmware.git
+[submodule "RevolutionPi/piControl"]
+	path = RevolutionPi/piControl
+	url = git@github.com:RevolutionPi/piControl.git
+[submodule "RevolutionPi/IODeviceExample"]
+	path = RevolutionPi/IODeviceExample
+	url = git@github.com:RevolutionPi/IODeviceExample.git
