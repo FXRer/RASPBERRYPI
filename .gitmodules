@@ -1,24 +1,24 @@
 [submodule "rpi-control-center"]
 	path = rpi-control-center
-	url = git@github.com:afkham/rpi-control-center.git
+	url = https://github.com/afkham/rpi-control-center.git
 [submodule "speed-camera"]
 	path = speed-camera
-	url = git@github.com:pageauc/speed-camera.git
+	url = https://github.com/pageauc/speed-camera.git
 [submodule "flickrup"]
 	path = flickrup
-	url = git@github.com:drcursor/flickrup.git
+	url = https://github.com/drcursor/flickrup.git
 [submodule "rpi-can-logger"]
 	path = rpi-can-logger
-	url = git@github.com:JonnoFTW/rpi-can-logger.git
+	url = https://github.com/JonnoFTW/rpi-can-logger.git
 [submodule "raspberrypi-locationtracker"]
 	path = raspberrypi-locationtracker
-	url = git@github.com:vikash-gupta/raspberrypi-locationtracker.git
+	url = https://github.com/vikash-gupta/raspberrypi-locationtracker.git
 [submodule "rpi-open-firmware"]
 	path = rpi-open-firmware
-	url = git@github.com:christinaa/rpi-open-firmware.git
+	url = https://github.com/christinaa/rpi-open-firmware.git
 [submodule "RevolutionPi/piControl"]
 	path = RevolutionPi/piControl
-	url = git@github.com:RevolutionPi/piControl.git
+	url = https://github.com/RevolutionPi/piControl.git
 [submodule "RevolutionPi/IODeviceExample"]
 	path = RevolutionPi/IODeviceExample
-	url = git@github.com:RevolutionPi/IODeviceExample.git
+	url = https://github.com/RevolutionPi/IODeviceExample.git
