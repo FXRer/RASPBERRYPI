@@ -22,3 +22,9 @@
 [submodule "RevolutionPi/IODeviceExample"]
 	path = RevolutionPi/IODeviceExample
 	url = https://github.com/RevolutionPi/IODeviceExample.git
+[submodule "fm-transmitter"]
+	path = fm-transmitter
+	url = https://github.com/markondej/fm_transmitter.git
+[submodule "raspberry-pi-mp3-player"]
+	path = raspberry-pi-mp3-player
+	url = https://github.com/tahaemara/raspberry-pi-mp3-player.git
