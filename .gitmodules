@@ -28,3 +28,12 @@
 [submodule "raspberry-pi-mp3-player"]
 	path = raspberry-pi-mp3-player
 	url = https://github.com/tahaemara/raspberry-pi-mp3-player.git
+[submodule "tboplayer"]
+	path = tboplayer
+	url = https://github.com/KenT2/tboplayer.git
+[submodule "RaspberryPiBarcodeScanner"]
+	path = RaspberryPiBarcodeScanner
+	url = https://github.com/briandorey/RaspberryPiBarcodeScanner.git
+[submodule "pi-lock"]
+	path = pi-lock
+	url = https://github.com/pbernasconi/pi-lock.git
