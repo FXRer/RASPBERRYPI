@@ -37,3 +37,6 @@
 [submodule "pi-lock"]
 	path = pi-lock
 	url = https://github.com/pbernasconi/pi-lock.git
+[submodule "rpidmx512"]
+	path = rpidmx512
+	url = https://github.com/vanvught/rpidmx512.git
